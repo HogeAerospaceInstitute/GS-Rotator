@@ -1,4 +1,4 @@
-# DIY Rotator Build
+# Ground Station Rotator Build
 This page outlines the build process for a do-it-yourself rotator that comprises one of the hardware components of a groundstation for tracking objects in Low Earth Orbit. If you do not need to track orbital objects, you may consider going with a stationary design (e.g. geostationary weather satellites).
 
 ## Credit & Attribution
