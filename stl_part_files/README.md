@@ -22,7 +22,7 @@ ABS and PETG are generally considered to be more durable than PLA but have diffe
 The helical gear **C1062-1** is by far the hardest piece to print, and contains either overhangs or support structures. I was able to print it without supports after adjusting the layer height (0.15mm on 0.4mm nozzle), retraction, cooling fan, and temperature to prevent the edges from curling. If you have severe difficulty with this part, consider printing on its side with support and using a file to smooth.
 
 ### Changes from SatNOGS Specs
-**C1040-2 C1042-2** have been modified from the original SatNOGS specification. **C1040-2** contains a tongue that triggers an infrared optical switch for the end stop. This tongue will likely need some sanding for smooth operation. **C1042-2** is the mount for the optical switch.
+**C1040-2, C1042-2** have been modified from the original SatNOGS specification. **C1040-2** contains a tongue that triggers an infrared optical switch for the end stop. This tongue will likely need some sanding for smooth operation. **C1042-2** is the mount for the optical switch.
 
 ## Bill of Materials - What to Print
 The same information is contained in *Parts List.ods*.
