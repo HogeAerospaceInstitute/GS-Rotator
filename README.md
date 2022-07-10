@@ -43,30 +43,6 @@ I built my rotator assembly while keeping in mind to use as few exotic tools as 
 - Wire strippers
   - You need ones that can strip 24-gauge wire that’s found in CAT 5 cable
 
-## 3D Printing Notes
-Here, I’ll highlight each 3D printed component, provide any overall notes for the part, and then speak to assembly of the rotator itself. I utilized Cura’s highest print settings and then modified them based on SATNOGs recommendations found in the reference material.
-
-### Worm Wheel - Qty 2
-- Notes: N/A
-
-### Motor Mount - Qty 2
-- Notes: Some post processing needed to removed excess ABS from the under hang of the circular cutout. Fan cooling may have helped mitigate this, however fixing this blemish took roughly 5 minutes per part.
-
-### Worm gear - Qty 2
-
-### Homing pin - Qty 2
-
-### Shaft Collar - Qty 2
-
-### Shaft Washer - Qty 2
-
-### Endstop Mount - Qty 2
-
-### Encoder Gear - Qty 2
-- Notes: Some post processing needed to removed excess ABS from the under hang for the recess of the homing pin. Fan cooling may have helped mitigate this, but again, only about 5 minutes of trimming strands of ABS fixed the aesthetics of the print.
-
-### Worm Mount - Qty 4
-
 ## Assembly Info
 
 ### Shaft Side Assemblies - Qty 4
